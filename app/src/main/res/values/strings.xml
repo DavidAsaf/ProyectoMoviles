@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PupusasYa!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="hintLoginUsu">Usuario</string>
+    <string name="hintLogContr">Contraseña</string>
+    <string name="etNames">Nombres</string>
+    <string name="etLastNames">Apellidos</string>
+    <string name="etEmail">Email</string>
+    <string name="etAddress">Dirección</string>
+    <string name="etPassword">Contraseña</string>
+    <string name="etConfPassword">Confirmar Contraseña</string>
+    <string name="btnSignUp">Registrarme</string>
+    <string name="etUserName">Nombre de Usuario</string>
+    <string name="tvSignUp">Registrarse</string>
+    <string name="tvSignIn">Iniciar Sesión</string>
+    <string name="etPhone">Teléfono</string>
+    <string name="userName">Nombre de Usuario</string>
+
+</resources>
